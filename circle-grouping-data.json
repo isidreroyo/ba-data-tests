@@ -1,0 +1,996 @@
+[
+  {
+      "id": 1,
+      "name": "pop"
+  },
+  {
+      "id": 2,
+      "name": "rock"
+  },
+  {
+      "id": 3,
+      "name": "dance"
+  },
+  {
+      "id": 4,
+      "name": "r&b"
+  },
+  {
+      "id": 5,
+      "name": "hiphop"
+  },
+  {
+      "id": 6,
+      "name": "others"
+  },
+  {
+      "id": 7,
+      "name": "canadian contemporary r&b",
+      "parent": 4
+  },
+  {
+      "id": 8,
+      "name": "pop",
+      "parent": 1
+  },
+  {
+      "id": 9,
+      "name": "cali rap",
+      "parent": 5
+  },
+  {
+      "id": 10,
+      "name": "modern rock",
+      "parent": 2
+  },
+  {
+      "id": 11,
+      "name": "electropop",
+      "parent": 1
+  },
+  {
+      "id": 12,
+      "name": "dfw rap",
+      "parent": 5
+  },
+  {
+      "id": 13,
+      "name": "dance pop",
+      "parent": 1
+  },
+  {
+      "id": 14,
+      "name": "chicago rap",
+      "parent": 5
+  },
+  {
+      "id": 15,
+      "name": "neo soul",
+      "parent": 4
+  },
+  {
+      "id": 16,
+      "name": "emo rap",
+      "parent": 5
+  },
+  {
+      "id": 17,
+      "name": "rap",
+      "parent": 5
+  },
+  {
+      "id": 18,
+      "name": "north carolina hip hop",
+      "parent": 5
+  },
+  {
+      "id": 19,
+      "name": "melodic rap",
+      "parent": 5
+  },
+  {
+      "id": 20,
+      "name": "canadian pop",
+      "parent": 1
+  },
+  {
+      "id": 21,
+      "name": "irish singer-songwriter",
+      "parent": 6
+  },
+  {
+      "id": 22,
+      "name": "brostep",
+      "parent": 6
+  },
+  {
+      "id": 23,
+      "name": "pop rap",
+      "parent": 1
+  },
+  {
+      "id": 24,
+      "name": "canadian hip hop",
+      "parent": 5
+  },
+  {
+      "id": 25,
+      "name": "classic rock",
+      "parent": 2
+  },
+  {
+      "id": 26,
+      "name": "conscious hip hop",
+      "parent": 5
+  },
+  {
+      "id": 27,
+      "name": "alternative rock",
+      "parent": 2
+  },
+  {
+      "id": 28,
+      "name": "australian pop",
+      "parent": 1
+  },
+  {
+      "id": 29,
+      "name": "gangster rap",
+      "parent": 5
+  },
+  {
+      "id": 30,
+      "name": "folk-pop",
+      "parent": 1
+  },
+  {
+      "id": 31,
+      "name": "boy band",
+      "parent": 6
+  },
+  {
+      "id": 32,
+      "name": "lgbtq+ hip hop",
+      "parent": 5
+  },
+  {
+      "id": 33,
+      "name": "acoustic pop",
+      "parent": 1
+  },
+  {
+      "id": 34,
+      "name": "danish pop",
+      "parent": 1
+  },
+  {
+      "id": 35,
+      "name": "latin",
+      "parent": 6
+  },
+  {
+      "id": 36,
+      "name": "beatlesque",
+      "parent": 6
+  },
+  {
+      "id": 37,
+      "name": "australian dance",
+      "parent": 3
+  },
+  {
+      "id": 38,
+      "name": "electro house",
+      "parent": 6
+  },
+  {
+      "id": 39,
+      "name": "detroit hip hop",
+      "parent": 5
+  },
+  {
+      "id": 40,
+      "name": "pop dance",
+      "parent": 1
+  },
+  {
+      "id": 41,
+      "name": "Blinding Lights",
+      "parent": 7,
+      "value": "91",
+      "artist": "The Weeknd",
+      "year": "2020"
+  },
+  {
+      "id": 42,
+      "name": "Watermelon Sugar",
+      "parent": 8,
+      "value": "88",
+      "artist": "Harry Styles",
+      "year": "2019"
+  },
+  {
+      "id": 43,
+      "name": "Mood (feat. iann dior)",
+      "parent": 9,
+      "value": "88",
+      "artist": "24kGoldn",
+      "year": "2021"
+  },
+  {
+      "id": 44,
+      "name": "Someone You Loved",
+      "parent": 8,
+      "value": "86",
+      "artist": "Lewis Capaldi",
+      "year": "2019"
+  },
+  {
+      "id": 45,
+      "name": "Perfect",
+      "parent": 8,
+      "value": "86",
+      "artist": "Ed Sheeran",
+      "year": "2017"
+  },
+  {
+      "id": 46,
+      "name": "Believer",
+      "parent": 10,
+      "value": "86",
+      "artist": "Imagine Dragons",
+      "year": "2017"
+  },
+  {
+      "id": 47,
+      "name": "lovely (with Khalid)",
+      "parent": 11,
+      "value": "86",
+      "artist": "Billie Eilish",
+      "year": "2018"
+  },
+  {
+      "id": 48,
+      "name": "Circles",
+      "parent": 12,
+      "value": "86",
+      "artist": "Post Malone",
+      "year": "2019"
+  },
+  {
+      "id": 49,
+      "name": "Shape of You",
+      "parent": 8,
+      "value": "85",
+      "artist": "Ed Sheeran",
+      "year": "2017"
+  },
+  {
+      "id": 50,
+      "name": "Memories",
+      "parent": 8,
+      "value": "85",
+      "artist": "Maroon 5",
+      "year": "2021"
+  },
+  {
+      "id": 51,
+      "name": "Closer",
+      "parent": 13,
+      "value": "84",
+      "artist": "The Chainsmokers",
+      "year": "2016"
+  },
+  {
+      "id": 52,
+      "name": "bad guy",
+      "parent": 11,
+      "value": "84",
+      "artist": "Billie Eilish",
+      "year": "2019"
+  },
+  {
+      "id": 53,
+      "name": "Say You Won't Let Go",
+      "parent": 8,
+      "value": "84",
+      "artist": "James Arthur",
+      "year": "2016"
+  },
+  {
+      "id": 54,
+      "name": "Lucid Dreams",
+      "parent": 14,
+      "value": "84",
+      "artist": "Juice WRLD",
+      "year": "2018"
+  },
+  {
+      "id": 55,
+      "name": "All of Me",
+      "parent": 15,
+      "value": "84",
+      "artist": "John Legend",
+      "year": "2013"
+  },
+  {
+      "id": 56,
+      "name": "7 rings",
+      "parent": 13,
+      "value": "84",
+      "artist": "Ariana Grande",
+      "year": "2019"
+  },
+  {
+      "id": 57,
+      "name": "Jocelyn Flores",
+      "parent": 16,
+      "value": "84",
+      "artist": "XXXTENTACION",
+      "year": "2017"
+  },
+  {
+      "id": 58,
+      "name": "goosebumps",
+      "parent": 17,
+      "value": "84",
+      "artist": "Travis Scott",
+      "year": "2016"
+  },
+  {
+      "id": 59,
+      "name": "Wake Me Up",
+      "parent": 13,
+      "value": "84",
+      "artist": "Avicii",
+      "year": "2013"
+  },
+  {
+      "id": 60,
+      "name": "ROCKSTAR (feat. Roddy Ricch)",
+      "parent": 18,
+      "value": "84",
+      "artist": "DaBaby",
+      "year": "2020"
+  },
+  {
+      "id": 61,
+      "name": "rockstar (feat. 21 Savage)",
+      "parent": 12,
+      "value": "83",
+      "artist": "Post Malone",
+      "year": "2018"
+  },
+  {
+      "id": 62,
+      "name": "Photograph",
+      "parent": 8,
+      "value": "83",
+      "artist": "Ed Sheeran",
+      "year": "2014"
+  },
+  {
+      "id": 63,
+      "name": "SAD!",
+      "parent": 16,
+      "value": "83",
+      "artist": "XXXTENTACION",
+      "year": "2018"
+  },
+  {
+      "id": 64,
+      "name": "SICKO MODE",
+      "parent": 17,
+      "value": "83",
+      "artist": "Travis Scott",
+      "year": "2018"
+  },
+  {
+      "id": 65,
+      "name": "Stressed Out",
+      "parent": 10,
+      "value": "83",
+      "artist": "Twenty One Pilots",
+      "year": "2015"
+  },
+  {
+      "id": 66,
+      "name": "Roses - Imanbek Remix",
+      "parent": 19,
+      "value": "83",
+      "artist": "SAINt JHN",
+      "year": "2019"
+  },
+  {
+      "id": 67,
+      "name": "The Box",
+      "parent": 19,
+      "value": "83",
+      "artist": "Roddy Ricch",
+      "year": "2019"
+  },
+  {
+      "id": 68,
+      "name": "The Hills",
+      "parent": 7,
+      "value": "83",
+      "artist": "The Weeknd",
+      "year": "2015"
+  },
+  {
+      "id": 69,
+      "name": "Sunflower - Spider-Man: Into the Spider-Verse",
+      "parent": 12,
+      "value": "82",
+      "artist": "Post Malone",
+      "year": "2018"
+  },
+  {
+      "id": 70,
+      "name": "Thinking out Loud",
+      "parent": 8,
+      "value": "82",
+      "artist": "Ed Sheeran",
+      "year": "2014"
+  },
+  {
+      "id": 71,
+      "name": "Starboy",
+      "parent": 7,
+      "value": "82",
+      "artist": "The Weeknd",
+      "year": "2016"
+  },
+  {
+      "id": 72,
+      "name": "Love Yourself",
+      "parent": 20,
+      "value": "82",
+      "artist": "Justin Bieber",
+      "year": "2015"
+  },
+  {
+      "id": 73,
+      "name": "Something Just Like This",
+      "parent": 13,
+      "value": "82",
+      "artist": "The Chainsmokers",
+      "year": "2017"
+  },
+  {
+      "id": 74,
+      "name": "Shallow",
+      "parent": 13,
+      "value": "82",
+      "artist": "Lady Gaga",
+      "year": "2018"
+  },
+  {
+      "id": 75,
+      "name": "Thunder",
+      "parent": 10,
+      "value": "82",
+      "artist": "Imagine Dragons",
+      "year": "2017"
+  },
+  {
+      "id": 76,
+      "name": "XO Tour Llif3",
+      "parent": 19,
+      "value": "82",
+      "artist": "Lil Uzi Vert",
+      "year": "2017"
+  },
+  {
+      "id": 77,
+      "name": "Take Me To Church",
+      "parent": 21,
+      "value": "82",
+      "artist": "Hozier",
+      "year": "2014"
+  },
+  {
+      "id": 78,
+      "name": "Happier",
+      "parent": 22,
+      "value": "82",
+      "artist": "Marshmello",
+      "year": "2018"
+  },
+  {
+      "id": 79,
+      "name": "thank u, next",
+      "parent": 13,
+      "value": "82",
+      "artist": "Ariana Grande",
+      "year": "2019"
+  },
+  {
+      "id": 80,
+      "name": "Counting Stars",
+      "parent": 13,
+      "value": "82",
+      "artist": "OneRepublic",
+      "year": "2013"
+  },
+  {
+      "id": 81,
+      "name": "Can't Hold Us - feat. Ray Dalton",
+      "parent": 23,
+      "value": "82",
+      "artist": "Macklemore & Ryan Lewis",
+      "year": "2012"
+  },
+  {
+      "id": 82,
+      "name": "Señorita",
+      "parent": 20,
+      "value": "81",
+      "artist": "Shawn Mendes",
+      "year": "2019"
+  },
+  {
+      "id": 83,
+      "name": "God's Plan",
+      "parent": 24,
+      "value": "81",
+      "artist": "Drake",
+      "year": "2018"
+  },
+  {
+      "id": 84,
+      "name": "Don't Start Now",
+      "parent": 13,
+      "value": "81",
+      "artist": "Dua Lipa",
+      "year": "2020"
+  },
+  {
+      "id": 85,
+      "name": "Bohemian Rhapsody - Remastered 2011",
+      "parent": 25,
+      "value": "81",
+      "artist": "Queen",
+      "year": "1975"
+  },
+  {
+      "id": 86,
+      "name": "HUMBLE.",
+      "parent": 26,
+      "value": "81",
+      "artist": "Kendrick Lamar",
+      "year": "2017"
+  },
+  {
+      "id": 87,
+      "name": "Let Me Love You",
+      "parent": 13,
+      "value": "81",
+      "artist": "DJ Snake",
+      "year": "2016"
+  },
+  {
+      "id": 88,
+      "name": "Congratulations",
+      "parent": 12,
+      "value": "81",
+      "artist": "Post Malone",
+      "year": "2016"
+  },
+  {
+      "id": 89,
+      "name": "Stay With Me",
+      "parent": 13,
+      "value": "81",
+      "artist": "Sam Smith",
+      "year": "2014"
+  },
+  {
+      "id": 90,
+      "name": "Treat You Better",
+      "parent": 20,
+      "value": "81",
+      "artist": "Shawn Mendes",
+      "year": "2017"
+  },
+  {
+      "id": 91,
+      "name": "Uptown Funk (feat. Bruno Mars)",
+      "parent": 13,
+      "value": "81",
+      "artist": "Mark Ronson",
+      "year": "2015"
+  },
+  {
+      "id": 92,
+      "name": "I Like Me Better",
+      "parent": 13,
+      "value": "81",
+      "artist": "Lauv",
+      "year": "2018"
+  },
+  {
+      "id": 93,
+      "name": "when the party's over",
+      "parent": 11,
+      "value": "81",
+      "artist": "Billie Eilish",
+      "year": "2019"
+  },
+  {
+      "id": 94,
+      "name": "Mr. Brightside",
+      "parent": 27,
+      "value": "81",
+      "artist": "The Killers",
+      "year": "2004"
+  },
+  {
+      "id": 95,
+      "name": "Dance Monkey",
+      "parent": 28,
+      "value": "80",
+      "artist": "Tones And I",
+      "year": "2019"
+  },
+  {
+      "id": 96,
+      "name": "Havana (feat. Young Thug)",
+      "parent": 13,
+      "value": "80",
+      "artist": "Camila Cabello",
+      "year": "2018"
+  },
+  {
+      "id": 97,
+      "name": "Better Now",
+      "parent": 12,
+      "value": "80",
+      "artist": "Post Malone",
+      "year": "2018"
+  },
+  {
+      "id": 98,
+      "name": "I Don't Care (with Justin Bieber)",
+      "parent": 8,
+      "value": "80",
+      "artist": "Ed Sheeran",
+      "year": "2019"
+  },
+  {
+      "id": 99,
+      "name": "Unforgettable",
+      "parent": 29,
+      "value": "80",
+      "artist": "French Montana",
+      "year": "2017"
+  },
+  {
+      "id": 100,
+      "name": "Too Good At Goodbyes",
+      "parent": 13,
+      "value": "80",
+      "artist": "Sam Smith",
+      "year": "2017"
+  },
+  {
+      "id": 101,
+      "name": "Riptide",
+      "parent": 30,
+      "value": "80",
+      "artist": "Vance Joy",
+      "year": "2014"
+  },
+  {
+      "id": 102,
+      "name": "That's What I Like",
+      "parent": 13,
+      "value": "80",
+      "artist": "Bruno Mars",
+      "year": "2016"
+  },
+  {
+      "id": 103,
+      "name": "See You Again (feat. Charlie Puth)",
+      "parent": 13,
+      "value": "80",
+      "artist": "Wiz Khalifa",
+      "year": "2015"
+  },
+  {
+      "id": 104,
+      "name": "One Kiss (with Dua Lipa)",
+      "parent": 13,
+      "value": "80",
+      "artist": "Calvin Harris",
+      "year": "2018"
+  },
+  {
+      "id": 105,
+      "name": "Heathens",
+      "parent": 10,
+      "value": "80",
+      "artist": "Twenty One Pilots",
+      "year": "2016"
+  },
+  {
+      "id": 106,
+      "name": "Demons",
+      "parent": 10,
+      "value": "80",
+      "artist": "Imagine Dragons",
+      "year": "2012"
+  },
+  {
+      "id": 107,
+      "name": "Youngblood",
+      "parent": 31,
+      "value": "80",
+      "artist": "5 Seconds of Summer",
+      "year": "2018"
+  },
+  {
+      "id": 108,
+      "name": "Old Town Road - Remix",
+      "parent": 32,
+      "value": "80",
+      "artist": "Lil Nas X",
+      "year": "2019"
+  },
+  {
+      "id": 109,
+      "name": "I'm Yours",
+      "parent": 33,
+      "value": "80",
+      "artist": "Jason Mraz",
+      "year": "2008"
+  },
+  {
+      "id": 110,
+      "name": "Attention",
+      "parent": 13,
+      "value": "80",
+      "artist": "Charlie Puth",
+      "year": "2018"
+  },
+  {
+      "id": 111,
+      "name": "New Rules",
+      "parent": 13,
+      "value": "79",
+      "artist": "Dua Lipa",
+      "year": "2017"
+  },
+  {
+      "id": 112,
+      "name": "Sorry",
+      "parent": 20,
+      "value": "79",
+      "artist": "Justin Bieber",
+      "year": "2015"
+  },
+  {
+      "id": 113,
+      "name": "Don't Let Me Down",
+      "parent": 13,
+      "value": "79",
+      "artist": "The Chainsmokers",
+      "year": "2016"
+  },
+  {
+      "id": 114,
+      "name": "7 Years",
+      "parent": 34,
+      "value": "79",
+      "artist": "Lukas Graham",
+      "year": "2016"
+  },
+  {
+      "id": 115,
+      "name": "I Like It",
+      "parent": 13,
+      "value": "79",
+      "artist": "Cardi B",
+      "year": "2018"
+  },
+  {
+      "id": 116,
+      "name": "I Fall Apart",
+      "parent": 12,
+      "value": "79",
+      "artist": "Post Malone",
+      "year": "2016"
+  },
+  {
+      "id": 117,
+      "name": "We Don't Talk Anymore (feat. Selena Gomez)",
+      "parent": 13,
+      "value": "79",
+      "artist": "Charlie Puth",
+      "year": "2016"
+  },
+  {
+      "id": 118,
+      "name": "Can't Feel My Face",
+      "parent": 7,
+      "value": "79",
+      "artist": "The Weeknd",
+      "year": "2015"
+  },
+  {
+      "id": 119,
+      "name": "Despacito",
+      "parent": 35,
+      "value": "78",
+      "artist": "Luis Fonsi",
+      "year": "2019"
+  },
+  {
+      "id": 120,
+      "name": "Psycho (feat. Ty Dolla $ign)",
+      "parent": 12,
+      "value": "78",
+      "artist": "Post Malone",
+      "year": "2018"
+  },
+  {
+      "id": 121,
+      "name": "Stitches",
+      "parent": 20,
+      "value": "77",
+      "artist": "Shawn Mendes",
+      "year": "2015"
+  },
+  {
+      "id": 122,
+      "name": "What Do You Mean?",
+      "parent": 20,
+      "value": "77",
+      "artist": "Justin Bieber",
+      "year": "2015"
+  },
+  {
+      "id": 123,
+      "name": "Wonderwall - Remastered",
+      "parent": 36,
+      "value": "77",
+      "artist": "Oasis",
+      "year": "1995"
+  },
+  {
+      "id": 124,
+      "name": "Radioactive",
+      "parent": 10,
+      "value": "76",
+      "artist": "Imagine Dragons",
+      "year": "2012"
+  },
+  {
+      "id": 125,
+      "name": "Eastside (with Halsey & Khalid)",
+      "parent": 11,
+      "value": "76",
+      "artist": "benny blanco",
+      "year": "2018"
+  },
+  {
+      "id": 126,
+      "name": "Cheerleader - Felix Jaehn Remix Radio Edit",
+      "parent": 13,
+      "value": "76",
+      "artist": "OMI",
+      "year": "2015"
+  },
+  {
+      "id": 127,
+      "name": "Cheap Thrills",
+      "parent": 37,
+      "value": "75",
+      "artist": "Sia",
+      "year": "2016"
+  },
+  {
+      "id": 128,
+      "name": "Girls Like You (feat. Cardi B) - Cardi B Version",
+      "parent": 8,
+      "value": "74",
+      "artist": "Maroon 5",
+      "year": "2018"
+  },
+  {
+      "id": 129,
+      "name": "Faded",
+      "parent": 38,
+      "value": "72",
+      "artist": "Alan Walker",
+      "year": "2015"
+  },
+  {
+      "id": 130,
+      "name": "Let Her Go",
+      "parent": 30,
+      "value": "72",
+      "artist": "Passenger",
+      "year": "2013"
+  },
+  {
+      "id": 131,
+      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's)",
+      "parent": 13,
+      "value": "72",
+      "artist": "Justin Timberlake",
+      "year": "2016"
+  },
+  {
+      "id": 132,
+      "name": "Lean On",
+      "parent": 13,
+      "value": "71",
+      "artist": "Major Lazer",
+      "year": "2015"
+  },
+  {
+      "id": 133,
+      "name": "Despacito - Remix",
+      "parent": 35,
+      "value": "70",
+      "artist": "Luis Fonsi",
+      "year": "2019"
+  },
+  {
+      "id": 134,
+      "name": "Lose Yourself",
+      "parent": 39,
+      "value": "70",
+      "artist": "Eminem",
+      "year": "2014"
+  },
+  {
+      "id": 135,
+      "name": "Without Me (with Juice WRLD)",
+      "parent": 13,
+      "value": "67",
+      "artist": "Halsey",
+      "year": "2019"
+  },
+  {
+      "id": 136,
+      "name": "One Dance",
+      "parent": 24,
+      "value": "66",
+      "artist": "Drake",
+      "year": "2016"
+  },
+  {
+      "id": 137,
+      "name": "Sugar",
+      "parent": 8,
+      "value": "66",
+      "artist": "Maroon 5",
+      "year": "2015"
+  },
+  {
+      "id": 138,
+      "name": "Emotions",
+      "parent": 40,
+      "value": "66",
+      "artist": "Mark Mendy",
+      "year": "2021"
+  },
+  {
+      "id": 139,
+      "name": "Cold Water",
+      "parent": 13,
+      "value": "56",
+      "artist": "Major Lazer",
+      "year": "2018"
+  },
+  {
+      "id": 140,
+      "name": "I Took A Pill In Ibiza - Seeb Remix",
+      "parent": 13,
+      "value": "53",
+      "artist": "Mike Posner",
+      "year": "2016"
+  }
+]
