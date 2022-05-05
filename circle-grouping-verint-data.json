@@ -10,14 +10,12 @@
   {
     "id": 3,
     "name": "Observed Degradation",
-    "parent": 1,
-    "value": "500"
+    "parent": 1
   },
   {
     "id": 4,
     "name": "Not Observed Degradation",
-    "parent": 1,
-    "value": "200"
+    "parent": 1
   },
   {
     "id": 5,
