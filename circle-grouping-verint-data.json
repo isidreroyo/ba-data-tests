@@ -30,8 +30,13 @@
     "value": "180"
   },
   {
-    "id": 6,
+    "id": 7,
     "name": "Observed No Degradation",
+    "parent": 2
+  },
+  {
+    "id": 8,
+    "name": "Observed Degradation",
     "parent": 2
   }
 ]
