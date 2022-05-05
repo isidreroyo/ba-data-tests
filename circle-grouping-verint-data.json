@@ -1,7 +1,7 @@
 [
   {
       "id": 1,
-      "name": "Negative 0 Feedback"
+      "name": "Negative Feedback"
   },
   {
       "id": 2,
@@ -32,7 +32,6 @@
   {
     "id": 6,
     "name": "Observed No Degradation",
-    "parent": 2,
-    "value": "180"
+    "parent": 2
   }
 ]
