@@ -5,7 +5,7 @@
   },
   {
       "id": 2,
-      "name": "Postive Feedback"
+      "name": "Positive Feedback"
   },
   {
     "id": 3,
@@ -29,6 +29,12 @@
     "id": 6,
     "name": "Optimization suggested",
     "parent": 4,
+    "value": "180"
+  },
+  {
+    "id": 6,
+    "name": "Observed No Degradation",
+    "parent": 2,
     "value": "180"
   }
 ]
