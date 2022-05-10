@@ -1,42 +1,10 @@
 [
-  {
-      "id": 1,
-      "name": "Negative Feedback"
-  },
-  {
-      "id": 2,
-      "name": "Positive Feedback"
-  },
-  {
-    "id": 3,
-    "name": "Observed Degradation",
-    "parent": 1
-  },
-  {
-    "id": 4,
-    "name": "Not Observed Degradation",
-    "parent": 1
-  },
-  {
-    "id": 5,
-    "name": "Too Subjective Feedback",
-    "parent": 4,
-    "value": "20"
-  },
-  {
-    "id": 6,
-    "name": "Optimization suggested",
-    "parent": 4,
-    "value": "180"
-  },
-  {
-    "id": 7,
-    "name": "Observed No Degradation",
-    "parent": 2
-  },
-  {
-    "id": 8,
-    "name": "Observed Degradation",
-    "parent": 2
-  }
+  { "id": 1, "name": "Negative Feedback" },
+  { "id": 2, "name": "Positive Feedback" },
+  { "id": 7, "name": "Observed No Degradation", "parent": 2 },
+  { "id": 8, "name": "Observed Degradation", "parent": 2 },
+  { "id": 3, "name": "Observed Degradation", "parent": 1 },
+  { "id": 4, "name": "Not Observed Degradation", "parent": 1 },
+  { "id": 5, "name": "Too Subjective Feedback", "parent": 4, "value": "20" },
+  { "id": 6, "name": "Optimization suggested", "parent": 4, "value": "180" }
 ]
